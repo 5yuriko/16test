@@ -20,6 +20,9 @@
 	// Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"hoge");
+    NSLog(@"piyo");
+    NSLog(@"oooo");
+    
 }
 
 - (void)didReceiveMemoryWarning
